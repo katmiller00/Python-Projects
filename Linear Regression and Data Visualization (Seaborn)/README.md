@@ -1,4 +1,4 @@
-# Linear Regression and Data Visualization (Seaborn)
+# Linear Regression and Data Visualization - Seaborn
 ## Concepts Utilized
 - Exploring and cleaning data
 - Filtering on Multiple Conditions
