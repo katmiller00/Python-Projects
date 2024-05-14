@@ -1,4 +1,4 @@
-# Google Trends Data - Resampling and Visualizing Time Series
+# Google Trends Data - Resampling and Visualizing Time Series (Pandas, Matplotlib)
 
 ## Concepts Utilized 
 - Data Exploration - Making Sense of Google Search Data
