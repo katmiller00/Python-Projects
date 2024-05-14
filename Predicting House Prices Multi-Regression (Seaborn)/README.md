@@ -1,4 +1,4 @@
-# Predicting House Prices
+# Predicting House Prices (Matplotlib, Seaborn)
 ## Concepts Utilized
 - Exploring and analyzing Boston housing price dataset
 - Splitting data into a training and testing dataset
