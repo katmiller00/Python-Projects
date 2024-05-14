@@ -1,4 +1,4 @@
-# Predicting House Prices - Plotly, Matplotlib, Seaborn
+# Predicting House Prices - Plotly, Matplotlib, and Seaborn
 ## Concepts Utilized
 - Exploring and analyzing Boston housing price dataset
 - Splitting data into a training and testing dataset
