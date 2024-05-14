@@ -1,4 +1,4 @@
-# Cafes Project - API Building
+# Cafes - API Building
 ## Concepts Utilized
 - HTTP Requests (GET, POST, PUT, PATCH, DELETE)
 - Postman Software
