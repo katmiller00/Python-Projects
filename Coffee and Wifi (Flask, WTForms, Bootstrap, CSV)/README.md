@@ -1,4 +1,4 @@
-# Coffee and Wifi Project - Flask, WTForms, Bootstrap, and CSV
+# Coffee and Wifi - Flask, WTForms, Bootstrap, and CSV
 
 ## Concepts Utilized
 - Creating forms with Flask-WTF
