@@ -5,7 +5,7 @@ Hi there! Welcome to my repository for some projects I've completed for Udemy's 
 - [Overview](#overview)
   - [Tools Used](#tools-used)
   - [Concepts Utilized](#concepts-utilized)
-- [Projects]
+- [Projects](#projects)
 - [Contact](#contact)
 
 ## Overview
