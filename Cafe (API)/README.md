@@ -15,13 +15,13 @@ This Flask application provides an API to manage information about cafes and use
 -   Flask SQLAlchemy
 
 ## Installation
-1.  Clone the repository:  `git clone https://github.com/<your-username>/100-days-of-code.git`
-2.  Change to the project directory:  `cd 100-days-of-code/Day-66`
-3.  Install the dependencies:  `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/<your-username>/Python-Projects.git`
+2. Change to the project directory: `cd Python-Projects/Cafe (API)`
+3. Install the dependencies: `pip install -r requirements.txt`
 
 ## Usage
-1.  Set up the SQLite database by running  `python app.py`  in the project directory.
-2.  Access the API routes using your preferred HTTP client.
+1. Set up the SQLite database by running `python app.py` in the project directory.
+2. Access the API routes using your preferred HTTP client.
 
 ## API Routes
 1.  GET /random - Returns information about a random cafe from the database.
