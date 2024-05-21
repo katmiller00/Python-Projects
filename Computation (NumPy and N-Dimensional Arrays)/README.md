@@ -1,5 +1,5 @@
 # Computation with NumPy and N-Dimensional Arrays
-This notebook provides a comprehensive guide to using NumPy for numerical data manipulation in Python. It covers topics like creating and manipulating arrays, performing basic linear algebra operations, and working with images as arrays. It includes examples and challenges to help users (like me) practice and understand NumPy's functionalities.
+This project is a comprehensive guide to using NumPy for numerical data manipulation in Python. It covers topics like creating and manipulating arrays, performing basic linear algebra operations, and working with images as arrays. It includes examples and challenges to help users (like me) practice and understand NumPy's functionalities.
 
 ## Concepts Utilized
 - Generating and Manipulating ndarrays
