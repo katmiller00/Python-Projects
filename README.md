@@ -34,21 +34,21 @@ This repository contains projects that demonstrate various concepts and technolo
 - Bootstrap for Frontend Design
 
 ## Projects
-### [Cafes - API Building](link-to-cafes-readme)
+### [Cafes - API Building](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Cafe%20(API))
 
-### [Coffee and Wifi - Flask, WTForms, Bootstrap, and CSV](link-to-coffee-wifi-readme)
+### [Coffee and Wifi - Flask, WTForms, Bootstrap, and CSV](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Coffee%20and%20Wifi%20(Flask%2C%20WTForms%2C%20Bootstrap%2C%20CSV))
 
-### [Computation with NumPy and N-Dimensional Arrays](link-to-computation-readme)
+### [Computation with NumPy and N-Dimensional Arrays](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Computation%20(NumPy%20and%20N-Dimensional%20Arrays))
 
-### [Google Trends Data - Resampling and Visualizing Time Series with Matplotlib](link-to-google-trends-readme)
+### [Google Trends Data - Resampling and Visualizing Time Series with Matplotlib](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Google%20Data%20Trends%20(Visualizing%20Time%20Series))
 
-### [Linear Regression and Data Visualization - Seaborn](link-to-linear-regression-readme)
+### [Linear Regression and Data Visualization - Seaborn](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Linear%20Regression%20and%20Data%20Visualization%20(Seaborn))
 
-### [Nobel Prize Analysis - Plotly, Matplotlib, and Seaborn](link-to-nobel-prize-readme)
+### [Nobel Prize Analysis - Plotly, Matplotlib, and Seaborn](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Nobel%20Prize%20Analysis%20(Plotly%2C%20Matplotlib%2C%20Seaborn))
 
-### [Predicting House Prices - Plotly, Matplotlib, and Seaborn](link-to-house-prices-readme)
+### [Predicting House Prices - Plotly, Matplotlib, and Seaborn](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Predicting%20House%20Prices%20Multi-Regression%20(Plotly%2C%20Matplotlib%2C%20Seaborn))
 
-### [Virtual Bookshelf - Databases with SQLite and SQLAlchemy, and Flask](link-to-virtual-bookshelf-readme)
+### [Virtual Bookshelf - Databases with SQLite and SQLAlchemy, and Flask](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Virtual%20Library%20(Flask%2C%20SQL))
 
 ## Contact
 Kat Miller - katherine.s.miller@outlook.com & [LinkedIn](https://linkedin.com/in/katmiller00)
