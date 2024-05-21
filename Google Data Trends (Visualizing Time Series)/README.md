@@ -1,5 +1,5 @@
 # Google Trends Data - Resampling and Visualizing Time Series with Matplotlib
-This analysis investigates the relationship between Google search trends and financial data. The objective is to determine whether the popularity of certain search terms corresponds to trends in stock prices or economic indicators.
+This notebook provides a comprehensive guide to analyzing the relationship between Google search trends and financial data. We aim to identify patterns that correlate search popularity with stock prices and economic indicators, focusing on Bitcoin, Tesla, and unemployment rates.
 
 ## Concepts Utilized 
 - Data Exploration - Making Sense of Google Search Data
