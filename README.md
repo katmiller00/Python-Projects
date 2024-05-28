@@ -48,7 +48,6 @@ This repository contains projects that demonstrate various concepts and technolo
 
 ### [Predicting House Prices - Plotly, Matplotlib, and Seaborn](https://github.com/katmiller00/Python-Projects/tree/7b83448d61ef163d4dc6cb0d2a875df77574ce40/Predicting%20House%20Prices%20Multi-Regression%20(Plotly%2C%20Matplotlib%2C%20Seaborn))
 
-### [Virtual Bookshelf - Databases with SQLite and SQLAlchemy, and Flask](https://github.com/katmiller00/Python-Projects/tree/7b83448d61ef163d4dc6cb0d2a875df77574ce40/Virtual%20Library%20(Flask%2C%20SQL))
-
+### [Virtual Bookshelf - Databases with SQLite and SQLAlchemy, and Flask](https://github.com/katmiller00/Python-Projects/blob/192c918773cd0d0c3142e8118718ecd5d2546d74/Virtual%20Library%20(Flask%2C%20SQL)/README.md)
 ## Contact
 Kat Miller - katherine.s.miller@outlook.com & [LinkedIn](https://linkedin.com/in/katmiller00)
