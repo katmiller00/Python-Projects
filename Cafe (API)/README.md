@@ -21,14 +21,17 @@ This Flask application provides an API to manage information about cafes and use
     git clone https://github.com/<your-username>/Python-Projects.git
     cd Python-Projects/Cafe\ \(API\)
     ```
-
 2. Install the dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 ## Usage
-1. Set up the SQLite database by running `python app.py` in the project directory.
+1. Set up the SQLite database and run the application:
+
+  ```bash
+   python app.py
+   ```
 2. Access the API routes using your preferred HTTP client.
 
 ## API Routes
