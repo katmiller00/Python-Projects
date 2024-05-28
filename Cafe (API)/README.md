@@ -15,10 +15,18 @@ This Flask application provides an API to manage information about cafes and use
 -   Flask SQLAlchemy
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/<your-username>/Python-Projects.git`
-2. Change to the project directory: `cd Python-Projects/Cafe (API)`
-3. Install the dependencies: `pip install -r requirements.txt`
+1. Clone the repository and change to the project directory:
 
+    ```bash
+    git clone https://github.com/<your-username>/Python-Projects.git
+    cd Python-Projects/Cafe\ \(API\)
+    ```
+
+2. Install the dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 ## Usage
 1. Set up the SQLite database by running `python app.py` in the project directory.
 2. Access the API routes using your preferred HTTP client.
