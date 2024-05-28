@@ -17,7 +17,7 @@ This Flask web application manages a collection of books, where users can add ne
 - Flask-Bootstrap
 - SQLAlchemy
 
-## Getting Started
+## Installation
 1. Clone the repository:
 
     ```bash
