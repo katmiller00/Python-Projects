@@ -29,9 +29,9 @@ This Flask application provides an API to manage information about cafes and use
 ## Usage
 1. Set up the SQLite database and run the application:
 
-  ```bash
-   python app.py
-   ```
+      ```bash
+       python app.py
+       ```
 2. Access the API routes using your preferred HTTP client.
 
 ## API Routes
