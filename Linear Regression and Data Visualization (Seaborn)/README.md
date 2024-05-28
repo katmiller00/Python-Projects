@@ -2,7 +2,7 @@
 This project serves as a thorough exploration of the correlation between movie budget data and box office revenues. We aim to uncover insights into whether higher production budgets translate to increased revenue at the box office. Using tools like Seaborn, scikit-learn, and Jupyter Notebook, we analyze the dataset, visualize trends, and conduct linear regression to understand the relationship between budget and revenue.
 
 ## Concepts Utilized
-- Exploring and cleaning data
+- Exploring and Cleaning Data
 - Filtering on Multiple Conditions
 - Seaborn Data Visualization: Bubble Charts
 - Floor Division: A Trick to Convert Years to Decades
