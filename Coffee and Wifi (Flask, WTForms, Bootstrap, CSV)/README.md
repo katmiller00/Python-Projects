@@ -17,7 +17,7 @@ This Flask application manages and displays cafe information. Users can add cafe
 -   Flask-WTF
 -   Flask-Bootstrap
 
-## Getting Started
+## Installation
 1.  Clone the repository:
 
      ```bash
