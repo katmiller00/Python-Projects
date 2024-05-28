@@ -14,7 +14,7 @@ This Flask application provides an API to manage information about cafes and use
 -   Flask
 -   Flask SQLAlchemy
 
-## Installation
+## Getting Started
 1. Clone the repository and change to the project directory:
 
     ```bash
