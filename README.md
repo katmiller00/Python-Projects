@@ -42,13 +42,13 @@ This repository contains projects that demonstrate various concepts and technolo
 
 ### [Google Trends Data - Resampling and Visualizing Time Series with Matplotlib](https://github.com/katmiller00/Python-Projects/tree/563f33272c905b548fe6ca74c4e2bb87f686db4d/Google%20Data%20Trends%20(Visualizing%20Time%20Series))
 
-### [Linear Regression and Data Visualization - Seaborn](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Linear%20Regression%20and%20Data%20Visualization%20(Seaborn))
+### [Linear Regression and Data Visualization - Seaborn](https://github.com/katmiller00/Python-Projects/tree/7b83448d61ef163d4dc6cb0d2a875df77574ce40/Linear%20Regression%20and%20Data%20Visualization%20(Seaborn))
 
-### [Nobel Prize Analysis - Plotly, Matplotlib, and Seaborn](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Nobel%20Prize%20Analysis%20(Plotly%2C%20Matplotlib%2C%20Seaborn))
+### [Nobel Prize Analysis - Plotly, Matplotlib, and Seaborn](https://github.com/katmiller00/Python-Projects/tree/7b83448d61ef163d4dc6cb0d2a875df77574ce40/Nobel%20Prize%20Analysis%20(Plotly%2C%20Matplotlib%2C%20Seaborn))
 
-### [Predicting House Prices - Plotly, Matplotlib, and Seaborn](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Predicting%20House%20Prices%20Multi-Regression%20(Plotly%2C%20Matplotlib%2C%20Seaborn))
+### [Predicting House Prices - Plotly, Matplotlib, and Seaborn](https://github.com/katmiller00/Python-Projects/tree/7b83448d61ef163d4dc6cb0d2a875df77574ce40/Predicting%20House%20Prices%20Multi-Regression%20(Plotly%2C%20Matplotlib%2C%20Seaborn))
 
-### [Virtual Bookshelf - Databases with SQLite and SQLAlchemy, and Flask](https://github.com/katmiller00/Python-Projects/tree/5cf0711f82ab455f1ca2786880c0af5133c6bfb4/Virtual%20Library%20(Flask%2C%20SQL))
+### [Virtual Bookshelf - Databases with SQLite and SQLAlchemy, and Flask](https://github.com/katmiller00/Python-Projects/tree/7b83448d61ef163d4dc6cb0d2a875df77574ce40/Virtual%20Library%20(Flask%2C%20SQL))
 
 ## Contact
 Kat Miller - katherine.s.miller@outlook.com & [LinkedIn](https://linkedin.com/in/katmiller00)
