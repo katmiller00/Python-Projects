@@ -48,7 +48,6 @@ This Flask web application manages a collection of books, where users can add ne
    ```bash
    python app.py
    ```
-
 2. Open a web browser and navigate to `http://127.0.0.1:5000/` to access the application.
 
 3. Use the provided web interface to manage your collection of books.
