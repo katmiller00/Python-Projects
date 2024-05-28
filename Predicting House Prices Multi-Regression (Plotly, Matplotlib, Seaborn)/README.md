@@ -1,5 +1,5 @@
 # Predicting House Prices - Plotly, Matplotlib, and Seaborn
-This Jupyter notebook builds a model to predict housing prices in 1970's Boston using the UCI Machine Learning housing dataset. 
+This project builds a model to predict housing prices in 1970's Boston using the UCI Machine Learning housing dataset. 
 
 ## Concepts Utilized
 - Exploring and analyzing Boston housing price dataset
