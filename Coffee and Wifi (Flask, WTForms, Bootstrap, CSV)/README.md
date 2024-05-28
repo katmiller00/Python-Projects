@@ -25,8 +25,9 @@ This Flask application manages and displays cafe information. Users can add cafe
     ```
     pip install flask flask_wtf flask_bootstrap
     ```
-    
-3.  Run the Flask application by executing the following command:
+## Usage
+
+1.  Run the Flask application:
     
 
     
@@ -34,10 +35,8 @@ This Flask application manages and displays cafe information. Users can add cafe
     python app.py    
     ```
     
-4.  Open your web browser and visit  `http://localhost:5000`  to access the application.
+2.  Open your web browser and visit  `http://localhost:5000`  to access the application.
     
-
-## Usage
 ### Home Page
 -   The home page displays a welcome message and provides navigation links to other sections of the application.
 
