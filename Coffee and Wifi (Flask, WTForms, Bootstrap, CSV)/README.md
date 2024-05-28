@@ -18,9 +18,14 @@ This Flask application manages and displays cafe information. Users can add cafe
 -   Flask-Bootstrap
 
 ## Getting Started
-1.  Clone the repository or download the source code.
+1.  Clone the repository:
+
+     ```bash
+    git clone https://github.com/<your-username>/Python-Projects.git
+    cd Python-Projects/Coffee\ and\ Wifi\ \(Flask,\ WTForms,\ Bootstrap,\ CSV\)
+     ```
     
-2.  Install the required dependencies by running the following command in your terminal:
+3.  Install the required dependencies by running the following command in your terminal:
     
     ```
     pip install flask flask_wtf flask_bootstrap
